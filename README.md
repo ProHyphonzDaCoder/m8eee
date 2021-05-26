@@ -1,10 +1,20 @@
-# Hi! I’m @m8eee
-I'm a BS Data Science student.
+# Hi!
+I’m [misterdossy](https://github.com/m8eee/m8eee)!
+- BS Data Science Student @ Mapua University
+- Discord Bot Developer
 
-Links
+### Programming Languages
+- JavaScript
+- PHP
+- R
+- Python
+
+### Current Projects
+- [Poluino](https://poluino.xyz/).
+- [Stickywaffle](https://stickywaffle.herokuapp.com/).
+
+### Links
 - 📷 [Instagram](https://www.instagram.com/misterdossy/)
-
-<!---
-m8eee/m8eee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐦 [Twitter](https://twitter.com/misterdossy)
+- ▶️ [YouTube](https://www.youtube.com/channel/UCp5El25jQnoGstaB_BetDRA)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karl-aldous-banaag-4a2864209/)
